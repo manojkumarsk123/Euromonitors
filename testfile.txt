@@ -1,2 +1,1 @@
-this is a test file to push
-Adding this line to test committinsadwf
+testing config files
